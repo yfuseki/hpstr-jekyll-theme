@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 初めての
-description: "こんにちは。これが初めての投稿。"
+title: 「初めての投稿」
+description: "こんにちは。初めまして、これが初めての投稿です。"
 modified: 2017-09-14
-tags: [初めての]
+tags: [初めての投稿（タグ）]
 published: true
 image:
   feature: cloud.jpeg
@@ -11,4 +11,4 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-初めての
+みなさん初めまして、これが初めての投稿です。これからよろしくお願いします。
